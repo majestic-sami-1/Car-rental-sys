@@ -1,6 +1,6 @@
 System Design and Architecture Specification
 
-1\. Behavioral Modeling
+1\. Behavioral Modeling:
 
 • Use Case Model: Defines the functional boundaries for the Customer, Admin, and Payment Gateway.
 
