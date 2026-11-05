@@ -1,6 +1,6 @@
 Functional Test Cases Specification
 
-
+TABLE
 
 Test ID	 Test Scenario	              Input Data	                                                Expected Result	                Status
 
